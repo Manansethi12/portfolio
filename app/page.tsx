@@ -219,7 +219,7 @@ export default function Home() {
       </section>
 
       <footer className="py-6 text-center text-gray-600 text-sm border-t border-gray-800">
-        &copy; 2026 Manan Sethi. Built with Next.js &amp; Tailwind CSS.
+        &copy; 2026 Manan Sethi
       </footer>
     </main>
   );
